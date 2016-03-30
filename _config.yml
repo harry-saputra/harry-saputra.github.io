@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://harry-saputra.github.io
+title: Harry Saputra
+tagline: A log of everyday life
+description: Learn to write,<br />Learn to share,<br />Learn to care,<br />Learn to prepare
+paginate: 5
